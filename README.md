@@ -2,7 +2,7 @@
 
 This is a Java implementation of the classic Reversi (also known as Othello) game, featuring a graphical user interface (GUI) for two players. The game allows players to make moves by clicking on the board squares and provides options for automated moves using a simple AI algorithm.
 
-![Game Boards](src/image/game.png)
+![Game Boards](Reversi_Game/src/image/game.png)
 
 **How to Run the Game:**
 
